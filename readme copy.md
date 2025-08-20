@@ -2,10 +2,10 @@
 
 Data: [Data de inicio do projeto]
 Empresa: Abstergo Industries
-Responsável: [Luiz Otávio da Silva Castanheira]
+Responsável: [Nome do responsável pelo projeto]
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa [Abstergo Industries], realizado por [Luiz Otávio da Silva Castanheira]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar a diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo proejto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar a diminuição de custos imediatos.
 
 ## Descrição do Projeto
 O projeto de implemententação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
@@ -32,4 +32,4 @@ A implementação de ferramentas na empres *[nome da empresa] tem como esperado 
 [lista de anexos, como manuais, documentos, planilhas entre outros - se disponíveis]
 
 Assinatura do Responsável pelo projeto:
-[Luiz Otávio da Silva Castanheira]
+[Nome do responsável pelo Projeto]
